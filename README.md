@@ -4,7 +4,8 @@
 
 This Power BI dashboard provides comprehensive insights into restaurant data from Zomato. The goal is to identify trends and patterns that can help businesses and stakeholders understand customer preferences, pricing strategies, delivery trends, and geographical distribution.
 
----
+![image](https://github.com/user-attachments/assets/f722bcc2-3608-4ec0-ac18-038ab9aa078d)
+
 
 ## 📁 Included Files
 
@@ -23,8 +24,6 @@ This Power BI dashboard provides comprehensive insights into restaurant data fro
 - ✅ **Price Range Distribution** by restaurant segment  
 - ✅ **Online Delivery vs. Cost** correlation  
 - ✅ **Map View** of restaurant spread by country and city
-
-![image](https://github.com/user-attachments/assets/1d1a317a-030c-441b-b183-ccebcadd068f)
 
 
 
